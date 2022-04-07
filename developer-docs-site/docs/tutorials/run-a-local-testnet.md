@@ -27,7 +27,7 @@ We describe each method below.
 
     ```
     git clone https://github.com/aptos-labs/aptos-core.git
-    cd aptos
+    cd aptos-core
     ./scripts/dev_setup.sh
     source ~/.cargo/env
     ```
